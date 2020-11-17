@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "710173967678",
+    "firebase_url": "https://smart-parking-28c87.firebaseio.com",
+    "project_id": "smart-parking-28c87",
+    "storage_bucket": "smart-parking-28c87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710173967678:android:14d8f78a118c85e419986f",
+        "android_client_info": {
+          "package_name": "com.wittaya.SmartParking2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710173967678-mdvneaq5iila5qgicphbntghl3e8uu6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKacSXOXybCGFuHeXiJx6zGy_uLKfhPnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710173967678-mdvneaq5iila5qgicphbntghl3e8uu6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710173967678:android:10e2bfc1737abd6119986f",
+        "android_client_info": {
+          "package_name": "th.ac.rmutsv.rattaphum.newApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710173967678-mdvneaq5iila5qgicphbntghl3e8uu6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKacSXOXybCGFuHeXiJx6zGy_uLKfhPnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710173967678-mdvneaq5iila5qgicphbntghl3e8uu6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710173967678:android:e2ef5ad996f4c65319986f",
+        "android_client_info": {
+          "package_name": "th.ac.rmutsv.rattaphum.parkingapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710173967678-mdvneaq5iila5qgicphbntghl3e8uu6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKacSXOXybCGFuHeXiJx6zGy_uLKfhPnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710173967678-mdvneaq5iila5qgicphbntghl3e8uu6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
