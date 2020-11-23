@@ -29,7 +29,7 @@ class _HeaderState extends State<Header> {
         sensorInt1 = iotmap['channel_1'];
         sensorInt2 = iotmap['channel_2'];
 
-        if (sensorInt1 == 1) {
+        if (sensorInt1 == 1) { 
           strsensor1 = 'ไม่ว่าง';
         } else {
           strsensor1 = 'ว่าง';
